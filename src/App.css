@@ -7,6 +7,15 @@
   pointer-events: none;
 }
 
+.backpack-wrapper {
+  border: 1px solid red;
+}
+
+svg {
+  width: 260px;
+  height: 270px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
